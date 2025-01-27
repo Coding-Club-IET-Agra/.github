@@ -1,6 +1,6 @@
 # 📂 Welcome to the Coding Club Archives!  
 
-This repository serves as the **official collection and archive** of all things **Coding Club**—a vibrant community under the **Innovation Council (IIC)** initiative by the **Ministry of Education (MoE)**. Whether you're a coding enthusiast, a curious learner, or a club member, this is your one-stop destination to explore everything we've built, learned, and shared.  
+This repository serves as the **official collection and archive** of all things **Coding Club**—a vibrant community under the **Institute of Engineering and Technology, Agra**. Whether you're a coding enthusiast, a curious learner, or a club member, this is your one-stop destination to explore everything we've built, learned, and shared.  
 
 ---
 
